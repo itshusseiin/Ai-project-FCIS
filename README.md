@@ -1,6 +1,8 @@
 # Ai-project-FCIS
-self driving car ( model / game ) project for college
-Ai project (self driving car) for college - 3rd year Team name: Smart Vision
+self driving car ( model / game ) project for college, 
+Ai project - 3rd year,
+
+Team name: Smart Vision,
 
 Team members : Hussein Mohamed Hussein, Khaled Tarek Elbahnasy, Elham Mostafa salah, Eman Abdelwahab jaber, Aml Kamal Kamal,
 
