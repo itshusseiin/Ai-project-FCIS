@@ -7,6 +7,6 @@ Team name: Smart Vision
 
 Team members : Hussein Mohamed Hussein, Khaled Tarek Elbahnasy,Aml Kamal Kamal, Elham Mostafa salah, Eman Abdelwahab jaber
 
-Team info: a self-driving car simulation project built in unity game engine and uses Ai to make car move from point A to B in the shortest path without human control
+Project info: a self-driving car simulation project built in unity game engine and uses Ai to make car move from point one point to another in the shortest path without human control
 
-Used technology : unity, C#, python, computer vision, UI, deep learning, neural network
+Used technology : unity, C#, neural network
