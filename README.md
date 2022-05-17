@@ -11,7 +11,7 @@ Project info: a self-driving car simulation and racing game project built in uni
 
 Used technology : unity, C#, neural network
 
-project video link on youtube 
+project video on youtube 
 
 https://youtu.be/YX2HAByEBGI
 
