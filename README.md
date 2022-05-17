@@ -13,4 +13,4 @@ Used technology : unity, C#, neural network
 
 project video link on youtube 
 
-https://www.youtube.com/watch?v=AguY__aCah8
+https://youtu.be/YX2HAByEBGI
