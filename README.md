@@ -15,6 +15,6 @@ project video on youtube
 
 https://youtu.be/YX2HAByEBGI
 
-project files and codes
+project files and code
 
 https://drive.google.com/file/d/1gQOiDEZJu4Kmm_QkVm8kaMZQDKgQ_oU1/view?usp=sharing
